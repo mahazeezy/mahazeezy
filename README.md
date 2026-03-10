@@ -80,7 +80,7 @@ Current Role  →  OSP Designer (Telecom / Construction Industry)
 Education     →  B.S. Civil Engineering
                  Madison Area Technical College, Madison WI
 
-Self-Taught   →  Python Course + hundreds of YouTube tutorials
+Self-Taught   →  Python Course 
                  Flask · REST APIs · Algorithmic Trading · Web Dev
 
 Location      →  Madison, Wisconsin · Open to relocate anywhere in the US
