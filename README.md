@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Muhammed Ceesay
 
-### OSP Engineer → Python Developer → Automation Engineer
+### Civil Engineer → Self-Taught Developer → Automation Engineer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00f0ff?style=for-the-badge&logoColor=white)](https://mahazeezy.pythonanywhere.com/portfolio)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-7b2fff?style=for-the-badge)](mailto:demmahumyaseec@gmail.com)
@@ -25,6 +25,7 @@
 | 💱 **OANDA Forex Bot** | Automated EUR/USD trading bot running 24/7 on OANDA practice account. EMA20/EMA50 + RSI strategy. Auto stop-loss & take-profit. | Python, Flask, OANDA API, Threading | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/dashboard) |
 | 📈 **NDXLive NASDAQ Scanner** | Real-time signal scanner for 10 NASDAQ-100 stocks. Live Yahoo Finance data, BUY/SELL/WATCH signals, interactive charts. Updates every 60s. | Python, Yahoo Finance API, Chart.js, JS | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/nasdaq) |
 | 📊 **Strategy Backtester** | Test EMA crossover strategy on real historical data. Configurable capital, SL/TP, position sizing. Equity curve + trade log. | Python, Flask, Chart.js, Historical Data | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/backtest) |
+| 🤖 **Python Automation Toolkit** | 6 real-world automation tools — file organizer, web scraper, text processor, URL checker, CSV analyzer, password generator. All in browser. | Python, Flask, HTML/CSS/JS | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/automation) |
 | 🌐 **Business Websites** | Built and deployed multiple websites for local businesses in Madison, WI. Order forms, menus, reviews, mobile responsive. | HTML, CSS, JS, Netlify | [▶ Example](https://orisyard.netlify.app) |
 | 🏠 **Command Center** | Personal dashboard linking all tools in one place. Live market status, clock, real-time indicators. | HTML, CSS, JS, Flask | [▶ Live](https://mahazeezy.pythonanywhere.com) |
 
@@ -80,7 +81,7 @@ Current Role  →  OSP Designer (Telecom / Construction Industry)
 Education     →  B.S. Civil Engineering
                  Madison Area Technical College, Madison WI
 
-Self-Taught   →  Python Course 
+Self-Taught   →  Python Course + hundreds of YouTube tutorials
                  Flask · REST APIs · Algorithmic Trading · Web Dev
 
 Location      →  Madison, Wisconsin · Open to relocate anywhere in the US
@@ -93,10 +94,12 @@ Location      →  Madison, Wisconsin · Open to relocate anywhere in the US
 🔴 **Everything below is live and running right now:**
 
 ```
+https://mahazeezy.pythonanywhere.com           ← Command Center
 https://mahazeezy.pythonanywhere.com/portfolio ← Portfolio
 https://mahazeezy.pythonanywhere.com/dashboard ← Forex Trading Bot
 https://mahazeezy.pythonanywhere.com/nasdaq    ← NASDAQ Live Scanner
 https://mahazeezy.pythonanywhere.com/backtest  ← Strategy Backtester
+https://mahazeezy.pythonanywhere.com/automation← Python Automation Toolkit
 ```
 
 ---
