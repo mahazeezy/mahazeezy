@@ -93,7 +93,6 @@ Location      →  Madison, Wisconsin · Open to relocate anywhere in the US
 🔴 **Everything below is live and running right now:**
 
 ```
-https://mahazeezy.pythonanywhere.com           ← Command Center
 https://mahazeezy.pythonanywhere.com/portfolio ← Portfolio
 https://mahazeezy.pythonanywhere.com/dashboard ← Forex Trading Bot
 https://mahazeezy.pythonanywhere.com/nasdaq    ← NASDAQ Live Scanner
