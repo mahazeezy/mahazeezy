@@ -22,9 +22,7 @@
 
 | Project | What It Does | Stack | Live |
 |---------|-------------|-------|------|
-| 💱 **OANDA Forex Bot** | Automated EUR/USD trading bot running 24/7 on OANDA practice account. EMA20/EMA50 + RSI strategy. Auto stop-loss & take-profit. | Python, Flask, OANDA API, Threading | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/dashboard) |
-| 📈 **NDXLive NASDAQ Scanner** | Real-time signal scanner for 10 NASDAQ-100 stocks. Live Yahoo Finance data, BUY/SELL/WATCH signals, interactive charts. Updates every 60s. | Python, Yahoo Finance API, Chart.js, JS | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/nasdaq) |
-| 📊 **Strategy Backtester** | Test EMA crossover strategy on real historical data. Configurable capital, SL/TP, position sizing. Equity curve + trade log. | Python, Flask, Chart.js, Historical Data | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/backtest) |
+
 | 🤖 **Python Automation Toolkit** | 6 real-world automation tools — file organizer, web scraper, text processor, URL checker, CSV analyzer, password generator. All in browser. | Python, Flask, HTML/CSS/JS | [▶ Live Demo](https://mahazeezy.pythonanywhere.com/automation) |
 | 🌐 **Business Websites** | Built and deployed multiple websites for local businesses in Madison, WI. Order forms, menus, reviews, mobile responsive. | HTML, CSS, JS, Netlify | [▶ Example](https://orisyard.netlify.app) |
 | 🏠 **Command Center** | Personal dashboard linking all tools in one place. Live market status, clock, real-time indicators. | HTML, CSS, JS, Flask | [▶ Live](https://mahazeezy.pythonanywhere.com) |
@@ -96,9 +94,6 @@ Location      →  Madison, Wisconsin · Open to relocate anywhere in the US
 ```
 https://mahazeezy.pythonanywhere.com           ← Command Center
 https://mahazeezy.pythonanywhere.com/portfolio ← Portfolio
-https://mahazeezy.pythonanywhere.com/dashboard ← Forex Trading Bot
-https://mahazeezy.pythonanywhere.com/nasdaq    ← NASDAQ Live Scanner
-https://mahazeezy.pythonanywhere.com/backtest  ← Strategy Backtester
 https://mahazeezy.pythonanywhere.com/automation← Python Automation Toolkit
 ```
 
